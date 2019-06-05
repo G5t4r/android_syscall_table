@@ -1,5 +1,4 @@
-# android_syscall_table
-android syscall table
+
 
 $ cat /Users/ne0/Documents/android_tools/mediatek/arch/arm/include/uapi/asm/unistd.h
 /*
