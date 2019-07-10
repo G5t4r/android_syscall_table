@@ -1,6 +1,6 @@
 ```c
 
-$ cat /Users/ne0/Documents/android_tools/mediatek/arch/arm/include/uapi/asm/unistd.h
+$ cat ~/android_tools/mediatek/arch/arm/include/uapi/asm/unistd.h
 /*
  *  arch/arm/include/asm/unistd.h
  *
